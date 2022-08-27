@@ -1,0 +1,6 @@
+{
+  "user.mapping":[
+    "fedexsite.core:readService=[fedexsite_read]",
+    "fedexsite.core:writeService=[fedexsite_write]"
+  ]
+}
